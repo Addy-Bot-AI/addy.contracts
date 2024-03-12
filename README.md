@@ -1,3 +1,5 @@
+![Addy Logo](addybanner.png)
+
 # AddyToken - Addy.bot ERC20 Smart Contract
 
 Welcome to the official GitHub repository for the AddyToken, the core ERC20 token powering the Addy.bot ecosystem. AddyToken ($ADDY) is designed to revolutionize the advertising industry, offering a unique blend of rewards, staking, and governance features within the Addy.bot platform. This repository hosts the smart contract codebase for $ADDY, aimed at developers, auditors, and enthusiasts interested in the technical foundations of our project.
